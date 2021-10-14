@@ -1,0 +1,16 @@
+C:\Users\Reda\Desktop\Test_c#\bin\Debug\net5.0\Test_c#.exe
+C:\Users\Reda\Desktop\Test_c#\bin\Debug\net5.0\Test_c#.deps.json
+C:\Users\Reda\Desktop\Test_c#\bin\Debug\net5.0\Test_c#.runtimeconfig.json
+C:\Users\Reda\Desktop\Test_c#\bin\Debug\net5.0\Test_c#.runtimeconfig.dev.json
+C:\Users\Reda\Desktop\Test_c#\bin\Debug\net5.0\Test_c#.dll
+C:\Users\Reda\Desktop\Test_c#\bin\Debug\net5.0\ref\Test_c#.dll
+C:\Users\Reda\Desktop\Test_c#\bin\Debug\net5.0\Test_c#.pdb
+C:\Users\Reda\Desktop\Test_c#\obj\Debug\net5.0\Test_c#.csproj.AssemblyReference.cache
+C:\Users\Reda\Desktop\Test_c#\obj\Debug\net5.0\Test_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reda\Desktop\Test_c#\obj\Debug\net5.0\Test_c#.AssemblyInfoInputs.cache
+C:\Users\Reda\Desktop\Test_c#\obj\Debug\net5.0\Test_c#.AssemblyInfo.cs
+C:\Users\Reda\Desktop\Test_c#\obj\Debug\net5.0\Test_c#.csproj.CoreCompileInputs.cache
+C:\Users\Reda\Desktop\Test_c#\obj\Debug\net5.0\Test_c#.dll
+C:\Users\Reda\Desktop\Test_c#\obj\Debug\net5.0\ref\Test_c#.dll
+C:\Users\Reda\Desktop\Test_c#\obj\Debug\net5.0\Test_c#.pdb
+C:\Users\Reda\Desktop\Test_c#\obj\Debug\net5.0\Test_c#.genruntimeconfig.cache

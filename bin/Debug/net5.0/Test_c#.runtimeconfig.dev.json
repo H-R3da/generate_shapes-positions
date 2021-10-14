@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Reda\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Reda\\.nuget\\packages"
+    ]
+  }
+}
