@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Reda\\Desktop\\Test_c#\\Test_c#.csproj": {}
+    "C:\\Users\\Reda\\Desktop\\Unity_projects\\generate_shapes-positions\\Test_c#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Reda\\Desktop\\Test_c#\\Test_c#.csproj": {
+    "C:\\Users\\Reda\\Desktop\\Unity_projects\\generate_shapes-positions\\Test_c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Reda\\Desktop\\Test_c#\\Test_c#.csproj",
+        "projectUniqueName": "C:\\Users\\Reda\\Desktop\\Unity_projects\\generate_shapes-positions\\Test_c#.csproj",
         "projectName": "Test_c#",
-        "projectPath": "C:\\Users\\Reda\\Desktop\\Test_c#\\Test_c#.csproj",
+        "projectPath": "C:\\Users\\Reda\\Desktop\\Unity_projects\\generate_shapes-positions\\Test_c#.csproj",
         "packagesPath": "C:\\Users\\Reda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Reda\\Desktop\\Test_c#\\obj\\",
+        "outputPath": "C:\\Users\\Reda\\Desktop\\Unity_projects\\generate_shapes-positions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Reda\\AppData\\Roaming\\NuGet\\NuGet.Config"
